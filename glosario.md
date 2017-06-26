@@ -1,8 +1,8 @@
-GitHub Glosario
+# GitHub Glosario
 
-A continuación se muestra una lista de algunos términos específicos de Git y GitHub que usamos en nuestros sitios y documentación.
+_A continuación se muestra una lista de algunos términos específicos de Git y GitHub que usamos en nuestros sitios y documentación._
 
-#"Blame" / Culpar
+# "Blame" / Culpar
 
 La característica "culpar" de Git describe la última modificación de cada línea de un archivo, que generalmente muestra la revisión, el autor y la hora. Esto es útil, por ejemplo, para rastrear cuándo se agregó una característica o qué commit llevó a un error en particular.
 
@@ -65,7 +65,7 @@ Organizaciones
 
 Las organizaciones son cuentas compartidas donde las empresas y los proyectos de código abierto pueden colaborar en muchos proyectos a la vez. Los propietarios y administradores pueden administrar el acceso de los miembros a los datos y proyectos de la organización con sofisticadas funciones administrativas y de seguridad.
 
-#"Private Reporsitory" / Repositorio privado
+# "Private Reporsitory" / Repositorio privado
 
 Los repositorios privados son repositorios que sólo pueden ser vistos o aportados por su creador y colaboradores que el creador especificó. Tienen un costo adicional a la cuenta. Por Git Classroom que aplico TecTijuana, esta abierto a los estudiantes.
 
@@ -73,35 +73,41 @@ Los repositorios privados son repositorios que sólo pueden ser vistos o aportad
 
 Pull se refiere a cuando se están buscando en los cambios y la fusión de ellos. Por ejemplo, si alguien ha editado el archivo remoto en el que ambos están trabajando, deseará introducir esos cambios en su copia local para que esté actualizada.
 
-#"Pull request" / Solicitud de extracción
+# "Pull request" / Solicitud de extracción
 
 Las solicitudes de extracción son cambios propuestos a un repositorio presentado por un usuario y aceptado o rechazado por los colaboradores de un repositorio. Al igual que las cuestiones, las solicitudes de tirar cada uno tiene su propio foro de discusión. Para obtener más información, consulte " Acerca de las solicitudes de extracción ".
 
-"Push" / empujar
+# "Push" / empujar
 
 Empujar se refiere a enviar los cambios comprometidos a un repositorio remoto, como un repositorio alojado en GitHub. Por ejemplo, si cambia algo localmente, desearía pulsar esos cambios para que otros puedan acceder a ellos. Muy similar a un pila pues el último cambio es la cabeza (HEAD) del repo.
 
-Remoto
+# Remoto
 
 Esta es la versión de algo que está alojado en un servidor, probablemente GitHub. Puede conectarse a clones locales para que se puedan sincronizar los cambios.
 
-Repositorio
+# Repositorio
 
 Un repositorio es el elemento más básico de GitHub. Son más fáciles de imaginar como la carpeta de un proyecto. Un repositorio contiene todos los archivos del proyecto (incluida la documentación) y almacena el historial de revisiones de cada archivo. Los repositorios pueden tener múltiples colaboradores y pueden ser públicos o privados.
 
-Clave SSH
+# Clave SSH
 
 Las claves SSH son una forma de identificarse a un servidor en línea, usando un mensaje encriptado. Es como si tu computadora tuviera su propia contraseña única para otro servicio. GitHub utiliza las claves SSH para transferir información de forma segura a su computadora.
 
-Equipo
+# Equipo
 
 Los equipos son grupos de miembros de la organización que reflejan la estructura de su empresa o grupo con permisos de acceso en cascada y menciones.
 
-#"Uptream" / "Downstream"
+# "Uptream" / "Downstream"
 
 Cuando se habla de una rama o un tenedor, la rama principal en el repositorio original a menudo se conoce como el "upstream", ya que ese es el lugar principal de los que vendrán otros cambios. La rama en la que está trabajando se llama "downstream".
 
-Usuario
+# Usuario
 
 Los usuarios son cuentas personales de GitHub. Cada usuario tiene un perfil personal, y puede poseer múltiples repositorios, públicos o privados. Pueden crear o ser invitados a unirse a organizaciones o colaborar en el repositorio de otro usuario.
 Otras lecturas
+
+# Proyectos
+Proyectos en GitHub le ayudan a organizar y priorizar su trabajo. Puede crear paneles de proyecto para el trabajo de características específicas, hojas de ruta completas o incluso listas de verificación de lanzamiento. Con las **tarjetas Kanban** de proyecto, tiene la flexibilidad se adapten a sus necesidades, se componen de cuestiones, solicitudes de tracción y notas que se clasifican como tarjetas en columnas de su elección. Las tarjetas se pueden mover de **columna en columna y reordenarse de acuerdo a sus necesidades**, cada una tiene metadatos relevantes para los problemas y solicitudes de extracción, como etiquetas, cesionarios, el estado y quién lo abrió. Si la nota no es suficiente para sus necesidades, **puede convertirla en un Caso (Issue).**
+
+
+# Proyectos
