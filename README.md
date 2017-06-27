@@ -8,5 +8,12 @@ Plantilla generica de todo repositorio.
 1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
 2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
 3. Git comandos como glosario https://www.atlassian.com/git/glossary
+4. Nuestro glosario español http://github.com/tectijuana/PlantillaInicio/glosario.md
+
+----
+
+Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+
+
 
 
