@@ -8,7 +8,8 @@ Plantilla generica de todo repositorio.
 1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
 2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
 3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
+5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
 
 ----
 
