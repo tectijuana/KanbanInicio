@@ -14,6 +14,14 @@ Plantilla generica de todo repositorio.
 
 Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
 
+----
 
+Linux Consola
+
+Aprender Linux básico 
+https://likegeeks.com/main-linux-commands-easy-guide/
+
+Tips de Linux para ser productivos
+https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
 
