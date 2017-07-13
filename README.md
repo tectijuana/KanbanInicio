@@ -16,7 +16,7 @@ Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.c
 
 ----
 
-Linux Consola
+![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
 
 Aprender Linux básico 
 https://likegeeks.com/main-linux-commands-easy-guide/
