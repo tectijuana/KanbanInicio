@@ -41,3 +41,21 @@ video de youtube
 7AiAYxrAJKw
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7AiAYxrAJKw/0.jpg)](https://www.youtube.com/watch?v=7AiAYxrAJKw)
+
+
+
+# CÓDIGO FUENTE
+```
+.global _start
+_start:
+MOV R7, #4
+MOV R0, #1
+MOV R2, #12
+LDR R1, =string
+SWI 0
+MOV R7, #1
+SWI 0
+.data
+string:
+.ascii "Hello Worldn"
+```
