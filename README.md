@@ -26,3 +26,18 @@ Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
 
+**Este es formato BOLD.**
+_Este es cursivo_
+
+![](https://pbs.twimg.com/profile_images/674079751024197632/kPLUGjcE_400x400.jpg)
+
+
+OBJETIVO PONER EL LOGO DE ISC.
+
+![](......JPG)
+
+
+video de youtube
+7AiAYxrAJKw
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7AiAYxrAJKw/0.jpg)](https://www.youtube.com/watch?v=7AiAYxrAJKw)
